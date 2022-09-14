@@ -1,4 +1,4 @@
-# Deployment Model Regresi Linier
+# Deployment Model DecisionTreeClassifier
 
 ## Deskripsi singkat
 
